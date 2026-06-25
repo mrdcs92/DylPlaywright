@@ -37,5 +37,6 @@ test('@API Sample Test', async ({page}) => {
 
 
     // select zara coat 4
+    // select zara coat 5
 
 });
